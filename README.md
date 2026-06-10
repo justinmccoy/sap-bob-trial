@@ -111,11 +111,11 @@ Each week pairs a lab with one live session and drop-in office hours.
 
 | Week | Focus | Do | Live session | Date |
 |---|---|---|---|---|
-| 1 | Meet Bob & build | Install, Quickstart, Lab 1 | Kickoff | TBD |
-| 2 | Understand & secure | Lab 2, shift-left scans | Security deep dive | TBD |
-| 3 | Extend & automate | Lab 3, MCP, Bob Shell | MCP & modes workshop | TBD |
-| 4 | Ship & scale | Lab 4, DevOps, your own codebase | Build clinic | TBD |
-| 5 | Bob-a-thon | Build and demo in a team | Bob-a-thon at SAP Labs Walldorf | TBD |
+| 1 | Meet Bob & build | Install, Quickstart, Lab 1 | Kickoff | June 17, 9:30-10:30 CET |
+| 2 | Understand & secure | Lab 2, shift-left scans | Security deep dive | June 24, 9:30-10:30 CET |
+| 3 | Extend & automate | Lab 3, MCP, Bob Shell | MCP & modes workshop | July 1, 9:30-10:30 CET |
+| 4 | Ship & scale | Lab 4, DevOps, your own codebase | Build clinic | July 8, 9:30-10:30 CET |
+| 5 | Bob-a-thon | Build and demo in a team | Bob-a-thon at SAP Labs Walldorf | July 15, 9:30-10:30 CET |
 
 **Office hours** run every week — drop in with a question or just to debug something live. Schedule and join links: [Office Hours](#office-hours).
 
@@ -169,11 +169,11 @@ Drop-in, no agenda required. Office hours run every week of the trial (Weeks 1 t
 
 | Week | Day / time (CET) | Theme (optional) | Join |
 |---|---|---|---|
-| 1 | TBD | Setup & first build | [link](#) |
-| 2 | TBD | Security & code analysis | [link](#) |
-| 3 | TBD | MCP, Bob Shell & modes | [link](#) |
-| 4 | TBD | Own-codebase clinic | [link](#) |
-| 5 | TBD | Bob-a-thon support | [link](#) |
+| 1 | June 17, 9:30-10:30 CET | Setup & first build | [link](#) |
+| 2 | June 24, 9:30-10:30 CET | Security & code analysis | [link](#) |
+| 3 | July 1, 9:30-10:30 CET | MCP, Bob Shell & modes | [link](#) |
+| 4 | July 8, 9:30-10:30 CET | Own-codebase clinic | [link](#) |
+| 5 | July 15, 9:30-10:30 CET | Bob-a-thon support | [link](#) |
 
 Themes are a default, not a gate. Bring any question, any week.
 
