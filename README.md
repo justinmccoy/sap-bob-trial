@@ -128,12 +128,12 @@ Detailed Agenda coming soon...
 The 12-minute overview is the best place to start:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=Mdbq1dD6Yuo">
     <img src="assets/overview-video.png" alt="Meet Bob: An AI-Powered IDE for Modern Software Development" width="70%">
   </a>
 </p>
 
-- Video — [Meet Bob: an AI-powered IDE](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (12 min)
+- Video — [Meet Bob: an AI-powered IDE](https://www.youtube.com/watch?v=Mdbq1dD6Yuo) (12 min)
 - Video - [IBM Dev Day Bob Edition Keynote](https://youtu.be/cpm8h18jWI8?si=KKQIqp5byrNPNhKI)
 - Video — [Deep dive: prototype to scalable cloud deployment](https://www.youtube.com/watch?v=WQscA_YQey0)
 - Channel — [IBM Bob on YouTube](https://www.youtube.com/@ibm-bob)
